@@ -32,7 +32,7 @@ p {
   padding: 0 5px 0 5px;
   display: inline-block; /*set the widht and height as the size of the element*/
   position: absolute; /*set the position relative to its container*/
-  right: 0; /* set the position to the right*/
+  right: 0; 
 }
 
 section {
